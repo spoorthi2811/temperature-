@@ -20,4 +20,7 @@ if (original % 10 == 0) {
   } else {
     printf("Reversed number = %d", reverse);
   }
+return 0;
+}
+
 
